@@ -1,0 +1,31 @@
+﻿produit_id,nom,categorie,Prix_Lagune,Prix_Baobab,Prix_Comptoir,Enseigne_Moins_Chere,Meilleur_Prix,Ecart_Lagune,Ecart_Baobab,Ecart_Comptoir,Gain_potentiel
+P01,Samsung Galaxy A15 128 Go,Smartphone,102900.0,104000.0,92990.0,Comptoir,92990.0,9910.0,11010.0,0.0,11010.0
+P02,Samsung Galaxy A25 128 Go,Smartphone,151500.0,142000.0,150300.0,Baobab,142000.0,9500.0,0.0,8300.0,9500.0
+P03,Samsung Galaxy A55 256 Go,Smartphone,288100.0,273800.0,76300.0,Comptoir,76300.0,211800.0,197500.0,0.0,211800.0
+P04,Tecno Spark 20 128 Go,Smartphone,779000.0,75000.0,67165.0,Comptoir,67165.0,711835.0,7835.0,0.0,711835.0
+P05,Tecno Camon 30 256 Go,Smartphone,136900.0,135400.0,42940.0,Comptoir,42940.0,93960.0,92460.0,0.0,93960.0
+P06,Infinix Hot 40i 128 Go,Smartphone,69200.0,69500.0,443700.0,Lagune,69200.0,0.0,300.0,374500.0,374500.0
+P07,Infinix Note 40 256 Go,Smartphone,132400.0,132700.0,407000.0,Lagune,132400.0,0.0,300.0,274600.0,274600.0
+P08,Itel A70 64 Go,Smartphone,45700.0,417200.0,287375.0,Lagune,45700.0,0.0,371500.0,241675.0,371500.0
+P09,Apple iPhone 13 128 Go,Smartphone,433700.0,134100.0,406260.0,Baobab,134100.0,299600.0,0.0,272160.0,299600.0
+P10,Xiaomi Redmi Note 13 128 Go,Smartphone,136900.0,354200.0,6200.0,Comptoir,6200.0,130700.0,348000.0,0.0,348000.0
+P11,HP 250 G9 Core i5 8 Go 512 Go,Informatique,390800.0,298200.0,39500.0,Comptoir,39500.0,351300.0,258700.0,0.0,351300.0
+P12,Lenovo IdeaPad 3 Core i3 8 Go 256 Go,Informatique,309400.0,7300.0,9200.0,Baobab,7300.0,302100.0,0.0,1900.0,302100.0
+P13,Dell Inspiron 15 Core i5 16 Go 512 Go,Informatique,102900.0,38300.0,168385.0,Baobab,38300.0,64600.0,0.0,130085.0,130085.0
+P14,Clé USB SanDisk 64 Go,Informatique,442900.0,10200.0,151725.0,Baobab,10200.0,432700.0,0.0,141525.0,432700.0
+P15,Disque dur externe Seagate 1 To,Informatique,6100.0,45700.0,241300.0,Lagune,6100.0,0.0,39600.0,235200.0,235200.0
+P16,Souris sans fil Logitech M185,Informatique,37600.0,28800.0,88740.0,Baobab,28800.0,8800.0,0.0,59940.0,59940.0
+P17,Imprimante HP DeskJet 2720e,Informatique,9200.0,90800.0,279300.0,Lagune,9200.0,0.0,81600.0,270100.0,270100.0
+P18,Routeur TP-Link Archer C6,Informatique,44000.0,183000.0,23700.0,Comptoir,23700.0,20300.0,159300.0,0.0,159300.0
+P19,Écran Samsung 24 pouces,Informatique,,244400.0,29200.0,Comptoir,29200.0,,215200.0,0.0,215200.0
+P20,Réfrigérateur Hisense 205 L,Électroménager,186100.0,96000.0,15700.0,Comptoir,15700.0,170400.0,80300.0,0.0,170400.0
+P21,Congélateur Nasco 200 L,Électroménager,176000.0,253300.0,68500.0,Comptoir,68500.0,107500.0,184800.0,0.0,184800.0
+P22,TV Samsung 43 pouces Crystal UHD,Électroménager,251100.0,30900.0,9200.0,Comptoir,9200.0,241900.0,21700.0,0.0,241900.0
+P23,TV Hisense 32 pouces,Électroménager,97300.0,,,Lagune,97300.0,0.0,,,0.0
+P24,Climatiseur LG 1 CV,Électroménager,256600.0,65400.0,,Baobab,65400.0,191200.0,0.0,,191200.0
+P25,Ventilateur sur pied Binatone 16 pouces,Électroménager,21800.0,11600.0,,Baobab,11600.0,10200.0,0.0,,10200.0
+P26,"Mixeur Moulinex 1,5 L",Électroménager,,287100.0,,Baobab,287100.0,,0.0,,0.0
+P27,Fer à repasser Philips,Électroménager,15700.0,,,Lagune,15700.0,0.0,,,0.0
+P28,Micro-ondes Samsung 23 L,Électroménager,67200.0,,,Lagune,67200.0,0.0,,,0.0
+P29,"Bouilloire électrique 1,7 L",Électroménager,309700.0,,,Lagune,309700.0,0.0,,,0.0
+P30,"Climatiseur Hisense 1,5 CV",Électroménager,97300.0,,,Lagune,97300.0,0.0,,,0.0
